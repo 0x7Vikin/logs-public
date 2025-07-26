@@ -750,3 +750,5 @@
 [2025-07-26 20:10:01] SUCCESS: Bearish New Imbalance | tf: 5 | ticker: ETHUSDT.P
 [2025-07-26 20:10:01] SUCCESS: Bullish Imbalance Mitigated | tf: 5 | ticker: ETHUSDT.P
 [2025-07-26 20:10:01] SUCCESS: Within Bullish Block [3,743.563,740.83] | tf: 5 | ticker: ETHUSDT.P
+[2025-07-26 20:11:11] SUCCESS: Bearish Imbalance Exited Block [3,756.113,742.73] | tf: 15 | ticker: ETHUSDT.P
+[2025-07-26 20:12:38] SUCCESS: Bullish Imbalance Exited Block [3,743.563,740.83] | tf: 5 | ticker: ETHUSDT.P
